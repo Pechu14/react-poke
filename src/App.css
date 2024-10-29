@@ -40,3 +40,37 @@
 .read-the-docs {
   color: #888;
 }
+
+body{
+  background-color: rgb(46, 43, 43);
+}
+.App input{
+  padding: 8px;
+  font-size: 2em;
+  width: 200px;
+  text-align: center;
+  background-color: hsl(240, 1%, 43%);
+  font-style: italic;
+}
+
+.App img{
+  width: 250px;
+  height: auto;
+  margin-top: 20px;
+}
+#root {
+  background-color: red;
+}
+.dataPokemon{
+  background-color: transparent;
+}
+.App h1{
+  color: black;
+}
+.App h3{
+  color: black;
+  font-size: 50px;
+  font-style:italic;
+  margin:30px;
+}
+
